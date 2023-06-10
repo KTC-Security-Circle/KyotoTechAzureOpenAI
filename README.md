@@ -1,5 +1,3 @@
-# readme.md
-
 # School Infomation × AzureOpenAI
 
 このプロジェクトではひとつの学校の情報に特化したチャットボットです。
